@@ -1320,6 +1320,7 @@ form.search button:hover{
     flex:0 0 33.3333%;
 }
 }
+
 @media screen and (min-width:920px) and (max-width:1140px){
 
     .banners .product-categories .item{
@@ -1366,10 +1367,11 @@ form.search button:hover{
     }
     .banners .product-categories .item{
        width:18rem;
-    } 
-    .products.main .item{
-        flex:0 0 45.333%;
     }
+    .products.main .item{
+        flex:0 0 45.3%;
+    } 
+  
 }
 
 @media screen and (max-width:673px) {
